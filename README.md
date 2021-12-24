@@ -7,7 +7,7 @@ Full stack MERN app to CRUD personal contacts in a user-friendly portal, fully e
 View the application at: https://boiling-beach-97650.herokuapp.com/
 
 ## Tech Stack
-ReactJS, React Hooks, CSS, React Router, Context API, Express, NodeJS, MongoDB
+ReactJS, React Hooks, CSS, React Router, Context API, JWT, Express, NodeJS, MongoDB
 
 # Getting Started with Create React App
 
