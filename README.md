@@ -1,7 +1,7 @@
 # Contact Keeper
 
 ## About
-Full stack MERN app to CRUD personal contactsin a user-friendly portal, fully equipped with custom authorization and authentication.
+Full stack MERN app to CRUD personal contacts in a user-friendly portal, fully equipped with custom authorization and authentication.
 
 ## Deployed
 View the application at: https://boiling-beach-97650.herokuapp.com/
